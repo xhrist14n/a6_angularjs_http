@@ -19,6 +19,14 @@ class Json extends CI_Controller {
                 array(
                     'nombre'=>'carlos',
                     'pais'=>'brasil'
+                ),                
+                array(
+                    'nombre'=>'russell',
+                    'pais'=>'estados unidos'
+                ),                
+                array(
+                    'nombre'=>'suresh',
+                    'pais'=>'inglaterra'
                 )
             ];
             $this->output
