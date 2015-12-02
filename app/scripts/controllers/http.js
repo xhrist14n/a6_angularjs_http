@@ -38,8 +38,8 @@ angular.module('adminApp').controller(
         $http.get("source/index.php/json/data")
             .then( 
                 function(response) {
-                    console.log(response);
-                    $scope.nombres = response.data.records;
+                    console.log(response.data);
+                    $scope.nombres = response.data;
                     return;
                 }
             );
