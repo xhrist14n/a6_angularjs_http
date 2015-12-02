@@ -35,9 +35,10 @@ angular.module('adminApp').controller(
             }
         ];*/
         
-        $http.get("source/index.php/json/data/")
+        $http.get("source/index.php/json/data")
             .then( 
                 function(response) {
+                    console.log(response.data.records);
                     $scope.nombres = response.data.records;
                     return;
                 }
