@@ -6,11 +6,11 @@ El servicio http de angularJS hacen mas sencillo la codificacion de aplicaciones
 
 #Video 
 
-https://youtu.be/epgdwak6trw
+https://youtu.be/SHDJxQiNPmI
 
 #Blog
 
-https://javascriptx.wordpress.com/2015/11/25/desarrollo-de-aplicaciones-web-con-angularjs-filtros/
+https://javascriptx.wordpress.com/2015/12/02/desarrollo-de-aplicaciones-web-con-angularjs-http/
 
 #Ejemplo en Vivo
 
