@@ -1,0 +1,6 @@
+=== angularjshttp Config Vars
+BUILDPACK_URL:        https://github.com/heroku/heroku-buildpack-multi.git
+CLEARDB_DATABASE_URL: mysql://be9d6ece6be937:71a8ff6d@us-cdbr-iron-east-03.cleardb.net/heroku_f4e4406042ae063?reconnect=true
+MEMCACHIER_PASSWORD:  d90a084a09d121673b30905b4699d074
+MEMCACHIER_SERVERS:   mc3.dev.ec2.memcachier.com:11211
+MEMCACHIER_USERNAME:  74dfd8

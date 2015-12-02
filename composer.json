@@ -1,0 +1,23 @@
+{
+  "require" : {
+    "php": "~5.0",
+    "ext-mysql": "*",
+    "ext-memcached": "*",
+    "ext-mbstring": "*",
+    "ext-bz2":"*",
+    "ext-curl":"*",
+    "ext-mcrypt":"*",
+    "ext-readline":"*",
+    "ext-zip":"*",
+    "ext-zlib":"*",
+    "ext-xmlrpc":"*",
+    "ext-bcmath":"*",
+    "ext-mongo": "*",
+    "ext-xsl": "*",
+    "ext-oauth": "*",
+    "ext-apcu":"*"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
